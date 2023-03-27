@@ -1,0 +1,28 @@
+body {
+    color: #82a5ca;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    margin: 0;
+}
+#hero {
+    background-image: url("galaxy1.webp");
+    background-size: cover;
+    padding: 10px 0 1095px 0;
+}
+.apply-btn {
+    padding: 6px 12px;
+    background-color: white;
+    border: none;
+    font-family: inherit;
+    font-weight: 800;
+    color: inherit;
+}
+#title {
+    text-shadow: 0 0 4px black;
+}
+.explore {
+    border-bottom: 4px solid white;
+}
+#main-logo {
+    width: 180px;
+}
